@@ -1,4 +1,4 @@
-# Computational Imaging Codebase
+# Computational Optical Imaging 
 
 This repository includes notebooks and data used in the the textbook **Computational Optical Imaging** (SPIE Press, to appear in 2025)
 
