@@ -1,19 +1,21 @@
 # Computational Imaging Codebase
 
-This repository includes notebooks support the textbook **Computational Optical Imaging**
+This repository includes notebooks and data used in the the textbook **Computational Optical Imaging** (SPIE Press, to appear in 2025)
 
+The notebooks on this site are organized according to the chapters of the text, which are
 
-Compuational Imaging is offered as course number 556 in Optical Sciences at the University of Arizona and Computational Photography is offered as OPTI 600C. Both courses use this text which covers:
+1. Introduction
+2. Forward models
+3. Image estimation
+4. Geometric imaging
+5. Wave imaging
+6. Coherence imaging
+7. Digital imaging
+8. Design
 
-* forward models
-* inverse problems
-* computational imaging using ray optics
-* computational imaging using wave optics
-* computational imaging using focal optics
-* discrete sampling for digital photography
-* neural image compression, image estimation and camera control
-* array cameras
-* dynamic control and sampling
+The website [imaging.computer](https://imaging.computer) distributes materials and links relevant to the text. 
+
+The textbook was written by David Brady, who leads the [Camera Lab](https://arizonacameralab.github.io/) in the Wyant College of Optical Sciences at the University of Arizona. 
 
 
 
