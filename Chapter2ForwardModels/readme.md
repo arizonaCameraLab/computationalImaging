@@ -14,3 +14,5 @@ Figures 2.16 through 2.26 are created in DiscreteForwardModels.ipynb
 Figures 2.28, 2.29, 2.31 through 2.33 are created in NeuralRepresentation.ipynb
 ## Section 2.10 Channel capacity
 Figures 2.34 and 2.35 are created using Mathematica in  prolateSpheroidalAnalysis.nb
+## Youtube examples
+The example of Fourier analysis of sound uses FourierAnalysisOfSound.ipynb and whistle.mp3
