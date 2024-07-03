@@ -10,6 +10,8 @@ Figures 2.9, 2.10 and 2.11 are created in sampling.ipynb
 Figures 2.12, 2.13, 2.14 and 2.15 are created in wavelets.ipynb
 ## Section 2.6 Discrete forward models
 Figures 2.16 through 2.26 are created in DiscreteForwardModels.ipynb
+## Section 2.7 Spectral Analysis
+some more figures
 ## Section 2.7 Neural representation
 Figures 2.28, 2.29, 2.31 through 2.33 are created in NeuralRepresentation.ipynb
 ## Section 2.10 Channel capacity
