@@ -17,4 +17,5 @@ Figures 2.28, 2.29, 2.31 through 2.33 are created in NeuralRepresentation.ipynb
 ## Section 2.10 Channel capacity
 Figures 2.34 and 2.35 are created using Mathematica in  prolateSpheroidalAnalysis.nb
 ## Youtube examples
-The example of Fourier analysis of sound uses FourierAnalysisOfSound.ipynb and whistle.mp3
+Episodes 3 and 4 implement Fourier analysis of sound using FourierAnalysisOfSound.ipynb and whistle.mp3 Episode 9 uses figures from noise.ipynb
+
