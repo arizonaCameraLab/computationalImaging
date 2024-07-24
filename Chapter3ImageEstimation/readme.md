@@ -11,4 +11,6 @@ Figures 3.5, 3.6 and 3.7 come from lassoAndTVRegression.ipynb
 ## Section 3.5 Maximum likelihood estimation
 Figure 3.8 comes from expectationMaximization.ipynb
 ## Section 3.6 Neural estimation
-Figures 3.9 comde from patternSubstitution.ipynb, 3.10, 3.11, and 3.13-3.15 come from cnnDemosaicing.ipynb
+Figures 3.9 comse from patternSubstitutionAndNeuralFeatures.ipynb, 3.10, 3.11, and 3.13-3.15 come from cnnDemosaicing.ipynb
+## YouTube
+patternSubstitutionAndNeuralFeatures.ipynb also contains a MNIST classifier discussed on video episode 17
