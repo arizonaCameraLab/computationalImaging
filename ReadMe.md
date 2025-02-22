@@ -1,6 +1,6 @@
 # Computational Optical Imaging 
 
-This repository includes notebooks and data used in the the textbook **Computational Optical Imaging** (SPIE Press, to appear in 2025)
+This repository includes notebooks and data used in the the textbook **Computational Optical Imaging** (SPIE Press, to appear in 2025). A description of the course materials on this site is also available on the [YouTube @ArizonaCamera channel](https://www.youtube.com/@ArizonaCamera). 
 
 The notebooks on this site are organized according to the chapters of the text, which are
 
