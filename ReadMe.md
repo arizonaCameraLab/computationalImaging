@@ -9,7 +9,7 @@ The notebooks on this site are organized according to the chapters of the text, 
 3. Image estimation
 4. Geometric imaging
 5. Wave imaging
-6. Coherent systems
+6. Coherent focal systems
 7. Coherence imaging
 8. Focal imaging
 9. Digital imaging
