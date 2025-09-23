@@ -27,3 +27,6 @@ Figure 5.31 is generated in syntheticWavelengthHolography.ipynb
 
 ## Section 5.10 Imaging through inhomogeneous media
 Figures 5.36 through 5.40 are generated in diffuserImaging.ipynb
+
+## Youtube example
+The phase swapping example presented in Episode 28: Digital holography is generated in phaseTransfer.ipynb
