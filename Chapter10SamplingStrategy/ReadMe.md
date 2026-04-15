@@ -37,6 +37,3 @@ Figures 10.52 and 10.53 is generated in Multiframeimaging.ipynb
 
 
 
-The website [imaging.computer](https://imaging.computer) distributes materials and links relevant to the text. 
-
-The textbook was written by David Brady, who leads the [Camera Lab](https://arizonacameralab.github.io/) in the Wyant College of Optical Sciences at the University of Arizona. 
